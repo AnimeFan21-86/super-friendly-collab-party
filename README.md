@@ -7,6 +7,6 @@ test
 
 here is a summary:
 
-• this is for collaboration
-• learning how to use github for my project
-• please offer help
+- this is for collaboration
+- learning how to use github for my project
+- please offer help
